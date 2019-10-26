@@ -1,0 +1,1 @@
+The scope of the document is only from API testing point of view
