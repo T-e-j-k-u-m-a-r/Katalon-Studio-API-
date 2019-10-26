@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Fetch_User_Details</name>
+   <tag>fetch_single_user_details</tag>
+   <comment></comment>
+   <testCaseGuid>b3bde5ca-79ff-4f64-bcf4-287573eb24f3</testCaseGuid>
+</TestCaseEntity>
